@@ -1,0 +1,38 @@
+run
+[A
+run
+run 
+run -o source.txt
+run -o source.txt -t 6
+quit
+exit
+run
+run -o input2.txt
+run -o input2.png
+exit
+run -o input2.png
+exit
+run -o input2.png
+val a = 
+val a = 2
+run -o input2.png
+q
+exit
+notebook
+exit
+notebook
+exit
+console
+exit
+console
+run -o input2.png
+exit
+run -o input2.png
+run -o input2.png -t 10
+run -o input2.png -t 10 -m 50
+run -o input2.png -t 10 -m 30
+run -o input.png -t 10 -m 30
+run -o input.png -t 10 -m 10
+run -o input.png -t 10 -m 30
+run -o input2.png -t 10 -m 30
+exit
